@@ -1,0 +1,23 @@
+[
+    { 
+        "id":1,
+        "name":"Tandoori Chicken (4 pieces)",
+        "no of plates": 10,
+        "Price of Food": 240,
+        "Discount": 40
+    },
+    { 
+        "id":2,
+        "name": "Vegan Burger (1 Piece)",
+        "no of plates": 20 ,
+        "Price of Food":320 ,
+        "Discount": 20
+    },
+    { 
+        "id":3,
+        "name": "Truffle Cake (500gm)",
+        "no of plates": 15,
+        "Price of Food": 900,
+        "Discount": 100
+    }
+]
